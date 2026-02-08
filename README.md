@@ -12,7 +12,9 @@ I’m an operations specialist transitioning into Data Science. I specialize in 
 ---
 
 ### 🚀 Featured Projects
-*Coming Soon: I'm currently building an Operational Audit project using PostgreSQL to identify fiscal leakage in logistics data.*
+* **[Hospital Operations Audit (SQL)](https://github.com/tbeasley-1/hospital-operations-audit)**
+  * Performed a regional audit of 4,000+ US healthcare facilities using **PostgreSQL**.
+  * Identified cost-to-quality outliers and benchmarked Missouri "5-Star" facilities for operational efficiency.
 
 ---
 
